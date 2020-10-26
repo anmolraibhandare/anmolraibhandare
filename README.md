@@ -12,7 +12,7 @@ I'm an international student pursuing Masters in Computer Science at [DePaul Uni
 
 You can find some of my projects here. Right now, I'm mostly working on building an **iOS app that embedds AR/VR features** to help kids with fun learning during COVID. I'm also looking forward to covering basics of **Kotlin** to understand differences in the guidelines and **React Native** for a cross-platform experience.
 
-I also have well versed with **Java, C++ and Object Oriented Programming concepts**.
+I also have well versed with **Java and Object Oriented Programming concepts**.
 
 <p align='center'> 
   <a href="https://www.linkedin.com/in/anmolraibhandare/">
