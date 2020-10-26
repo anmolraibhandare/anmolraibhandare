@@ -1,4 +1,4 @@
-### Hi there!
+## Hi there!
         
 I'm an international student pursuing Masters in Computer Science at [DePaul University](https://www.depaul.edu/Pages/default.aspx), currently located in San Franscico, CA.
 
