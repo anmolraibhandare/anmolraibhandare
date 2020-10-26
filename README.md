@@ -6,7 +6,7 @@ I'm an international student pursuing Masters in Computer Science at [DePaul Uni
 
 🚩 Graduating December 2020
 
-**I invest most of my time learning Mobile Application Development. I'm interested in building building user focused, pixel perfect mobile applications using industry leading frameworks that can emphtaize and help people accross globe.**
+**I invest most of my time learning Mobile Application Development. I'm interested in building user focused, pixel perfect mobile applications using industry leading frameworks that can emphtaize and help people accross globe.**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmolraibhandare&layout=compact)](https://github.com/anmolraibhandare/github-readme-stats)
 
