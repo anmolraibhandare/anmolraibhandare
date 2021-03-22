@@ -3,6 +3,7 @@
 I'm a graduate student from [DePaul University](https://www.depaul.edu/Pages/default.aspx) with Masters in Computer Science desgree, currently located in San Franscico, CA.
 
 🚩 Currently looking for Full time opprtunities
+
 🚩 Graduated December 2020
 
 **I invest most of my time learning Mobile Application Development. I'm interested in building user focused, pixel perfect mobile applications using industry leading frameworks that can emphtaize and help people accross globe.**
