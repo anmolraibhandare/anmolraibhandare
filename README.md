@@ -6,13 +6,13 @@ I'm a graduate student from [DePaul University](https://www.depaul.edu/Pages/def
 
 🚩 Graduated December 2020
 
-**I invest most of my time learning Mobile Application Development. I'm interested in building user focused, pixel perfect mobile applications using industry leading frameworks that can emphtaize and help people accross globe.**
+**I invest most of my time learning Mobile Application Development. I'm interested in building user focused, pixel perfect mobile applications using industry leading frameworks that can help people accross globe.**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmolraibhandare&hide=jupyter%20notebook&layout=compact)](https://github.com/anmolraibhandare/github-readme-stats)
 
-You can find some of my projects here. Right now, I'm mostly working on building an **iOS app that embedds AR/VR features** to help kids with fun learning during COVID. I'm also looking forward to covering basics of **Kotlin** to understand differences in the guidelines and **React Native** for a cross-platform experience.
+You can find some of my projects here. Right now, I'm mostly working on building an **iOS app that embedds AR/VR features** to help kids with fun learning during COVID. I'm also looking forward to covering basics of **Kotlin** to understand differences in the guidelines and **Flutter** for a cross-platform experience.
 
-I also have well versed with **Java and Object Oriented Programming concepts**.
+I am also well versed with **Java and Object Oriented Programming concepts**.
 
 <p align='center'> 
   <a href="https://www.linkedin.com/in/anmolraibhandare/">
