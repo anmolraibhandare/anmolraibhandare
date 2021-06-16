@@ -1,6 +1,6 @@
 ## Hi there 👋
         
-I'm a graduate student from [DePaul University](https://www.depaul.edu/Pages/default.aspx) with Masters in Computer Science desgree, currently located in San Franscico, CA. Feel free to explore my projects!
+Software Engineer | MS in Computer Science - DePaul Univeristy 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmolraibhandare&hide=jupyter%20notebook&layout=compact)](https://github.com/anmolraibhandare/github-readme-stats)
 
