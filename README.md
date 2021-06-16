@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/anmolraibhandare/anmolraibhandare/master/wave.gif" width="30px">
         
 Software Engineer | MS in Computer Science - DePaul Univeristy 
 
@@ -9,8 +9,3 @@ Software Engineer | MS in Computer Science - DePaul Univeristy
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
-<!-- <p align='center'> 
-  <a href="https://raibhandareanmol.wixsite.com/portfolio">
-    <img src="https://img.shields.io/static/v1?label=Visit&message=Website&color=green" />
-  </a>&nbsp;&nbsp;
-</p> -->
