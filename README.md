@@ -1,5 +1,5 @@
 ### Hello!
-I'm Anmol, a software developer based in the San Francisco bay area. I focus mainly on iOS, Apple platform development, and full stack web development.
+I'm Anmol, a software developer based in the San Francisco bay area.
 
 - 💻 I'm currently working as a software engineer at an educational startup
 - 🔍 Code for [Disk based searching and sorting](https://github.com/anmolraibhandare/Disk_Based_Sorting_And_Searching)
